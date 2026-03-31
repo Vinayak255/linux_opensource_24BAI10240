@@ -52,11 +52,11 @@ echo "==========================================="
 #     OPEN SOURCE MANIFESTO GENERATOR
 # ===========================================
 # Let's create a personalized text file for your capstone project!
-# 1. What is your first name? Pradyumn
+# 1. What is your first name? Vinayak
 # 2. Why do you like open-source software? (Short sentence): it is free and allows you to learn from others' code
 # 3. What is your favorite Linux command? (e.g., ls, grep, git): git commit
 # -------------------------------------------
-# Generating your manifesto at: manifesto_pradyumn.txt ...
+# Generating your manifesto at: manifesto_vinayak.txt ...
 # [SUCCESS] File created!
 # Here is what it looks like inside:
 # ... (prints the text file)
