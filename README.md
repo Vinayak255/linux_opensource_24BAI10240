@@ -3,7 +3,9 @@
 **Student Name:** Vinayak Bhadauria 
 
 **Roll Number:** 24BAI10240
+
 **Course Name:** Open Source Software  
+
 **Chosen Software:** Git  
 
 ## Project Overview
