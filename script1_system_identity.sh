@@ -1,7 +1,7 @@
 #!/bin/bash
 # script1_system_identity.sh
-# Author: Pradyumn Krishna Arya
-# Roll Number: 24bai10668
+# Author: Vinayak Bhadauria
+# Roll Number: 24BAI10240
 # Purpose: Display basic system and user information to establish the environment
 
 echo "==========================================="
@@ -47,8 +47,8 @@ echo "==========================================="
 # Date/Time       : 2023-11-20 14:30:00
 # Linux Distro    : Ubuntu 22.04.3 LTS
 # Kernel Version  : 5.15.0-88-generic
-# Logged in User  : pradyumn
-# Home Directory  : /home/pradyumn
+# Logged in User  : Vinayak
+# Home Directory  : /home/Vinayak
 # System Uptime   : up 2 hours, 15 minutes
 # -------------------------------------------
 # Fun Fact: Ubuntu 22.04.3 LTS is open source and heavily relies on the GPL license!
