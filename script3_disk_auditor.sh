@@ -65,6 +65,6 @@ echo "==========================================="
 # 4.0K            drwxrwxrwt   root:root                 /tmp
 # -------------------------------------------
 # Git Configuration Check:
-# [+] Found global Git config at: /home/pradyumn/.gitconfig
+# [+] Found global Git config at: /home/vinayak/.gitconfig
 #     Permissions: -rw-rw-r--
 # ===========================================
